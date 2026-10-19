@@ -1,0 +1,14 @@
+{
+  "name": "currency-conversion-olivern77",
+  "version": "1.0.0",
+  "description": "A simple Node.js package for currency conversion.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": ["currency", "conversion", "exchange", "money"],
+  "author": "Oliver Nieto",
+  "license": "MIT",
+  "type": "commonjs"
+}
