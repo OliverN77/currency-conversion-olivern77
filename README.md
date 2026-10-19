@@ -7,7 +7,7 @@ Un paquete ligero para Node.js que permite realizar conversiones entre distintas
 Instala el paquete mediante **npm**:
 
 ```bash
-npm install currency-conversion
+npm install currency-conversion-olivern77
 ```
 
 ---
